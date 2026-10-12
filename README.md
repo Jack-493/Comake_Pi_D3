@@ -21,10 +21,8 @@ Git Web 平台的账号与 Sigmastar Comake 社区（`https://www.comake.online`
 
 > **注意**：本平台为对外只读平台，**不支持用户创建个人仓库或直接提交代码**。
 
+[mymedia_arm_demo_10mb.webm](https://github.com/user-attachments/assets/cfac55dc-7c6d-4282-859e-e7d3855aa78a)
 
-<a href="https://github.com/Jack-493/Comake_Pi_D3/blob/main/mymedia/arm_demo.mp4">
-  <img src="https://raw.githubusercontent.com/Jack-493/Comake_Pi_D3/main/mymedia/arm_demo_poster.jpg" alt="Comake Pi D3 具身智能端到端验证系统演示" width="360">
-</a>
 
 ### 1.3 Comake Pi D3
 
